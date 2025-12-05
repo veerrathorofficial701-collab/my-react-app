@@ -1,4 +1,4 @@
-export default function Banner({ 
+export default function About({ 
   title = "About page",
   description = "Providing essential services for improving search engine rankings through effective link building, helping businesses grow their online visibility.",
   buttonText = "Grow Your Agency Now",
