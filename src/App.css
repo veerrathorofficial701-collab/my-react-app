@@ -1058,3 +1058,16 @@ footer .links a:hover {
     font-size: 32px;
   }
 }
+
+
+
+  .intro_sec .row {
+    display: flex;
+    flex-wrap: wrap-reverse;
+  }
+  .intro_sec .img {
+    margin: 0 0 30px;
+  }
+  .CoreValues-sec .content-bx p {
+    min-height: auto;
+  }

@@ -1,8 +1,8 @@
-export default function About({ 
-  title = "About page",
-  description = "Providing essential services for improving search engine rankings through effective link building, helping businesses grow their online visibility.",
-  buttonText = "Grow Your Agency Now",
-  buttonLink = "https://app.grolinq.com"
+export default function Banner({ 
+  title = "",
+  description = "",
+  buttonText = "",
+  buttonLink = ""
 }) {
   return (
     <section id="home-slider">

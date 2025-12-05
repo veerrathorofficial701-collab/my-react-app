@@ -1,5 +1,16 @@
+
+
+import Ctapage from "../components/Ctapage";
+
+
+
 export default function About() {
   return (
+
+<>
+
+
+    
     <section id="home-slider" >
   <div className="slider-wrap">
 
@@ -24,6 +35,8 @@ export default function About() {
 </section>
 
 
+<Ctapage/>
+</>
     
   );
 }

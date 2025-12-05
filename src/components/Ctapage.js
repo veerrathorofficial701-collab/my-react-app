@@ -10,7 +10,7 @@ export default function Cta() {
             <p>Whether you’re exploring data, streamlining workflows, or unlocking smarter insights, Grolinq gives you the tools to move faster and achieve more. Join the community of innovators who are already transforming the way they work. Don’t wait—start your journey today and experience the power of Grolinq for yourself.</p>
           </div>
           <div className="default_btn">
-            <a href="contact-us">Contact Us Now</a>
+            <a href="/Contact">Contact Us Now</a>
           </div>
         </div>
       </div>

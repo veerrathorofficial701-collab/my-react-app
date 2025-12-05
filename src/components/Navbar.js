@@ -4,7 +4,10 @@ export default function Navbar() {
   return (
     <header className="navbar">
       < div className="wrap">
-      <div className="logo"><img src="https://mywebprovider.com/grolinq/wp-content/uploads/2025/10/logo.png" alt="" /></div>
+      <div className="logo"><Link to="/">
+      <img src="img/logo/logo.png" alt="" />
+      </Link>
+        </div>
 
       <nav>
         <ul>
