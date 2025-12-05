@@ -79,7 +79,7 @@ window.onload = function () {
 
       <p>
         Providing essential services for improving search engine rankings through effective link building.
-        helping businesses grow their online visibility.
+        helping businessess grow their online visibility.
       </p>
 
       <div className="buttons">
